@@ -1,0 +1,265 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [{
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "realme: Realme Pad with MediaTek chipset, 4GB RAM could launch soon - Times of India - Times of India",
+            "description": "It looks like Realme Pad, the first tablet by Realme, is going to be launched soon as it has appeared in a listing on Geekbench",
+            "url": "https://timesofindia.indiatimes.com/gadgets-news/realme-pad-with-mediatek-chipset-4gb-ram-could-launch-soon/articleshow/85768854.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85768896,width-1070,height-580,imgsize-44524,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T13:48:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Aparna Banerjea",
+            "title": "Karnataka govt eases night curfew in all areas except four districts. Details here - Mint",
+            "description": "Night curfew would be relaxed in all areas except Kodagu, Hassan, Dakshina Kannada and Udupi districts, which share borders with Kerala",
+            "url": "https://www.livemint.com/news/india/karnataka-govt-eases-night-curfew-in-all-areas-except-four-districts-details-here-11630330266279.html",
+            "urlToImage": "https://images.livemint.com/img/2021/08/21/600x338/c27ad4ac-ff81-11eb-a5c0-e2376e1e0c6b_1629543770833_1629543791173.jpg",
+            "publishedAt": "2021-08-30T13:45:22Z",
+            "content": "Karnataka government on Monday decided to ease night curfew regulations imposed in the state due to Covid-19 in most areas except four districts, which are sharing its borders with Kerala. \r\nState Re… [+3436 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "IANS",
+            "title": "Reopening TN schools, colleges to focus on students mental health - Business Standard",
+            "description": "With schools for higher classes and colleges reopening in Tamil Nadu from September 1, the main focus will be on emotional and mental health of the students as also the teaching and non-teaching staff",
+            "url": "https://www.business-standard.com/article/education/reopening-tn-schools-colleges-to-focus-on-students-mental-health-121083000958_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2016-09/23/full/1474649854-7958.jpg",
+            "publishedAt": "2021-08-30T13:45:00Z",
+            "content": "With schools for higher classes and colleges reopening in Tamil Nadu from September 1, the main focus will be on emotional and mental health of the students as also the teaching and non-teaching staf… [+3726 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile",
+            "title": "Samsung is bringing two more affordable 5G Galaxy phones to South Korea - SamMobile",
+            "description": "Samsung's new Galaxy A52s 5G refresh is reportedly on its way to becoming available in South Korea soon. Local media ...",
+            "url": "https://www.sammobile.com/news/samsung-bringing-two-more-affordable-5g-galaxy-phones-to-south-korea/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2021/03/Galaxy-A52-review-8-720x405.jpg",
+            "publishedAt": "2021-08-30T13:20:00Z",
+            "content": "Samsung’s new Galaxy A52s 5G refresh is reportedly on its way to becoming available in South Korea soon. Local media reports that the Galaxy A52s 5G will be going on sale in Korea on September 3. It … [+1018 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "\"Action Against 'Break Heads' Officer, But...\": Dushyant Chautala To NDTV - NDTV",
+            "description": "Hours after Haryana Chief Minister ML Khattar appeared to justify an IAS officer's \"smash their heads\" comment linked to a farmer protest in Karnal on Saturday, his deputy Dushyant Chautala asserted that the officer had been asked for an explanation",
+            "url": "https://www.ndtv.com/india-news/action-against-break-heads-officer-but-dushyant-chautala-to-ndtv-2523893",
+            "urlToImage": "https://c.ndtvimg.com/2021-08/9fc84vro_dushyant-chautala650_625x300_30_August_21.jpg",
+            "publishedAt": "2021-08-30T12:59:00Z",
+            "content": "Dushyant Chautala said the police only acted when they were attacked by the protesters.\r\nNew Delhi: Hours after Haryana Chief Minister ML Khattar appeared to justify an IAS officer's \"smash their hea… [+2320 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "M-cap of BSE-listed companies zooms to record Rs 247.30 lakh crore; investors richer by Rs 5.76 lakh crore in 3 days - Times of India - Times of India",
+            "description": "India Business News: Driven by bullish sentiment in equities, the market capitalisation of BSE-listed companies jumped to an all-time high of Rs 2,47,30,108.97 crore on Mo",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/m-cap-of-bse-listed-companies-zooms-to-record-rs-247-30-lakh-crore-investors-richer-by-rs-5-76-lakh-crore-in-3-days/articleshow/85766679.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85767748,width-1070,height-580,imgsize-103520,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T12:54:00Z",
+            "content": "M-cap of BSE-listed companies zooms to record Rs 247.30 lakh crore; investors richer by Rs 5.76 lakh crore in 3 days"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The News Minute"
+            },
+            "author": null,
+            "title": "Karnataka to resume physical classes for standards 6-8 from September 6 - The News Minute",
+            "description": "The Karnataka government on Monday announced that schools for classes 6-8 will open from September 6. The classes will be scheduled for five days in a week while the other two days will be used for sanitization. This is for the first time that regular classes…",
+            "url": "https://www.thenewsminute.com/article/karnataka-resume-physical-classes-standards-6-8-september-6-154595",
+            "urlToImage": "https://www.thenewsminute.com/sites/default/files/classroom_rep_1200_1.jpg",
+            "publishedAt": "2021-08-30T12:49:17Z",
+            "content": "As of now Bengaluru has had 0.54% TPR over the last week, which means schools in the district can open.The Karnataka government on Monday announced that schools for classes 6-8 will open from Septemb… [+2167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bollywood Life"
+            },
+            "author": "Ganesh Aaglave",
+            "title": "Raj Kundra Pornography Case: Sherlyn Chopra requests Shilpa Shetty to 'accept her mistakes'; says, 'Please sh - Bollywood Life",
+            "description": "Sherlyn Chopra shares a two-minute long clip on Twitter, where she questioned Shilpa Shetty's statement made on Super Dancer Chapter 4.",
+            "url": "https://www.bollywoodlife.com/news-gossip/raj-kundra-pornography-case-sherlyn-chopra-requests-shilpa-shetty-to-accept-her-mistakes-says-please-show-some-sympathy-towards-all-those-helpless-girls-read-the-latest-news-and-gossip-1904301/",
+            "urlToImage": "https://st1.bollywoodlife.com/wp-content/uploads/2021/08/MicrosoftTeams-image-2021-08-30T180411.580-600x315.jpg",
+            "publishedAt": "2021-08-30T12:47:36Z",
+            "content": "In the last month, we saw actress Shilpa Shetty Kundra's husband Raj Kundra getting arrested for producing pornographic content and distributing it through applications. Since that phase, we saw Sher… [+2264 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Actor Jacqueline Fernandez Questioned As Witness In Money Laundering Case - NDTV",
+            "description": "Jacqueline Fernandez is not an accused, but is being examined as a witness in the case against conman Sukesh Chandrasekhar, ED sources have said. The alleged conman was said to be running an extortion racket from inside the Rohini jail in Delhi.",
+            "url": "https://www.ndtv.com/india-news/jacqueline-fernandez-questioned-as-witness-in-money-laundering-case-against-conman-say-enforcement-directorate-sources-2523845",
+            "urlToImage": "https://i.ndtvimg.com/i/2018-03/jacqueline-fernandez-instagram_650x400_41521868492.jpg",
+            "publishedAt": "2021-08-30T12:31:00Z",
+            "content": "Jacqueline Fernandez, the Sri Lankan actor, is not an accused in the case, ED sources have said.\r\nNew Delhi: Bollywood actor Jacqueline Fernandez was today questioned as a witness in money laundering… [+1596 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Covid third wave could peak between Oct-Nov; intensity expected to be 1/4 of second wave - Economic Times",
+            "description": "Manindra Agrawal, an IIT-Kanpur scientist who is part of the three-member team of experts that have been tasked with predicting any surge in infections, said if no new virulent emerges, then the situation is unlikely to change.",
+            "url": "https://economictimes.indiatimes.com/news/india/covid-third-wave-could-peak-between-oct-nov-intensity-expected-to-be-1/4-of-second-wave/articleshow/85766983.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-85767148,width-1070,height-580,imgsize-64658,overlay-economictimes/photo.jpg",
+            "publishedAt": "2021-08-30T12:30:00Z",
+            "content": "India may see a third wave of COVID-19 peaking between October and November if a more virulent mutant than the existing ones emerge by September, but its intensity is expected to be much lower than t… [+2010 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Devdiscourse"
+            },
+            "author": "Reuters",
+            "title": "What you need to know about the coronavirus right now - Devdiscourse",
+            "description": "The suspension of Moderna supplies, affecting more than 2.6 million does in total, comes as Japan battles its worst wave of COVID-19 yet, driven by the Delta variant, with new daily infections exceeding 25,000 this month for the first time amid a slow vaccine…",
+            "url": "https://www.devdiscourse.com/article/health/1711359-what-you-need-to-know-about-the-coronavirus-right-now",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/30_07_2021_04_44_44_2789063.jpg?width=920&format=jpeg",
+            "publishedAt": "2021-08-30T12:01:46Z",
+            "content": "Here's what you need to know about the coronavirus right now: Japan's Moderna vaccine contamination woes widen\r\nModerna's COVID-19 vaccine contamination woes in Japan have widened with another millio… [+3439 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "'Pakistan has understood…': Rajnath Singh on ceasefire violations on LOC & terrorism in Kashmir - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZDBxZTdxUkxVZW_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-30T11:50:53Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Janmashtami procession taken out in Srinagar after two years - Times of India",
+            "description": "India News: SRINAGAR: After a gap of two years, Kashmiri Pandits took out a Janmashtami procession to celebrate the birthday of Lord Krishna here on Monday.",
+            "url": "https://timesofindia.indiatimes.com/india/janmashtami-procession-taken-out-in-srinagar-after-two-years/articleshow/85765653.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85765676,width-1070,height-580,imgsize-143654,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T11:39:00Z",
+            "content": "Janmashtami procession taken out in Srinagar after two years\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Janmashtami procession taken out in Srinagar after two years</li></ul>"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Javelin thrower Sumit Antil clinches India's second gold in Paralympics with stunning world record show - Times of India",
+            "description": "Tokyo Paralympics News: Javelin thrower Sumit Antil clinched India's second gold at the ongoing Paralympics, shattering the men's F64 category world record multiple times in",
+            "url": "https://timesofindia.indiatimes.com/sports/tokyo-paralympics/javelin-thrower-sumit-antil-clinches-indias-second-gold-in-paralympics-with-stunning-world-record-show/articleshow/85765446.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85767971,width-1070,height-580,imgsize-34600,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T11:36:00Z",
+            "content": "#SumitAntil is the Champion, World Record Holder, #Tokyo2020 #Paralympics #Gold Medallist #Javelin @ParaAthletics https://t.co/Mqghm3EBGT\r\n— Paralympic India #Cheer4India #Praise4Para (@ParalympicInd… [+16 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "New York Times",
+            "title": "Fossils seized in police raid demystify a prehistoric flying reptile - The Indian Express",
+            "description": "The pterosaur had a giant, mohawk-style crest, a birdlike beak and a body covered in something resembling but not quite fur.",
+            "url": "https://indianexpress.com/article/technology/science/fossils-police-raid-demystify-prehistoric-flying-reptile-7478336/",
+            "urlToImage": "https://images.indianexpress.com/2021/08/PTEROSAUR-FOSSIL-2.jpg",
+            "publishedAt": "2021-08-30T11:04:33Z",
+            "content": "Limestone slabs recovered in a 2013 police raid in Brazil have revealed the most complete fossil of a species of pterosaur ever found, providing new details about how the flying reptile might have lo… [+4839 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Pak NSA Denies \"Warning\" Of Second 9/11 If West Didn't Recognise Taliban - NDTV",
+            "description": "Pakistan National Security Advisor (NSA) Moeed Yousuf's latest interview has sparked a controversy after it was indicated that the security official suggested the risk of 'second 9/11' if the Western countries do not recognise Taliban.",
+            "url": "https://www.ndtv.com/world-news/pak-nsa-denies-warning-risk-of-second-9-11-if-west-does-not-recognise-taliban-2523747",
+            "urlToImage": "https://c.ndtvimg.com/2021-08/1skqf8_pakistan-national-security-advisor-nsa-moeed-yousuf_625x300_30_August_21.jpg",
+            "publishedAt": "2021-08-30T10:55:22Z",
+            "content": "Pakistan National Security Advisor Moeed Yousuf's interview recently sparked controversy.\r\nIslamabad: Pakistan National Security Advisor (NSA) Moeed Yousuf's latest interview has sparked a controvers… [+1530 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cricbuzz"
+            },
+            "author": null,
+            "title": "Vasu Paranjape passes away | Cricbuzz.com - Cricbuzz - Cricbuzz",
+            "description": "Paranjape played 29 first-class matches for Mumbai and Baroda in a career spanning from 1956 to 1970",
+            "url": "https://www.cricbuzz.com/cricket-news/118802/vasu-paranjape-passes-away",
+            "urlToImage": "http://www.cricbuzz.com/a/img/v1/600x400/i1/c212089/paranjape-played-29-first-clas.jpg",
+            "publishedAt": "2021-08-30T10:53:58Z",
+            "content": "Paranjape played 29 first-class matches for Mumbai and Baroda in a career spanning from 1956 to 1970 © Getty\r\nVasudeo Paranjape, the former Mumbai cricketer, passed away on Monday (August 30), aged 8… [+1225 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Express News Service",
+            "title": "Staggered lunch breaks, quarantine room among guidelines for reopening of Delhi schools - The Indian Express",
+            "description": "Delhi news: Apart from standard precautions on sanitization, masking and physical distancing, institutes have also been directed to maintain a ‘quarantine room’ on campus for the event that a student or teacher displays symptoms while at school.",
+            "url": "https://indianexpress.com/article/cities/delhi/ddma-guidelines-for-reopening-of-delhi-schools-7477767/",
+            "urlToImage": "https://images.indianexpress.com/2021/08/School-10.jpg",
+            "publishedAt": "2021-08-30T10:35:02Z",
+            "content": "Delhi Schools Reopening, DDMA New Guidelines: The Delhi Disaster Management Authority Monday issued its order permitting schools, colleges, and other educational institutes to re-open for students in… [+2883 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Entertainment Desk",
+            "title": "Karan Johar reveals mom Hiroo had ‘two massive surgeries’ amid pandemic, shares video from hospital: ‘Oscar goes to…’ - Hindustan Times",
+            "description": "Karan Johar showered praise on his ‘superhero’ Hiroo Johar as he shared a video of her from the hospital. He said that she underwent ‘two massive surgeries’ in the last eight months but kept her spirits high through it all. | Bollywood",
+            "url": "https://www.hindustantimes.com/entertainment/bollywood/karan-johar-reveals-mom-hiroo-had-two-massive-surgeries-amid-pandemic-shares-video-from-hospital-oscar-goes-to-101630318150853.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2021/08/30/1600x900/karan_johar_1630318631669_1630318647188.jpg",
+            "publishedAt": "2021-08-30T10:26:24Z",
+            "content": "Karan Johar took to Instagram to share a video of his mother, Hiroo Johar, from a hospital in Mumbai after she underwent an operation. He called her a superhero in his caption and revealed that she u… [+1549 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "TIMESOFINDIA.COM",
+            "title": "Sensex, Nifty hit record closing highs: Top reasons behind the surge - Times of India",
+            "description": "India Business News: Equity indices surged to fresh highs on Monday with the benchmark BSE sensex rising over 750 points led by gains in auto and metal stocks. After scali",
+            "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-nifty-hit-record-closing-highs-top-reasons-behind-the-surge/articleshow/85763891.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-85763896,width-1070,height-580,imgsize-86304,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2021-08-30T10:25:00Z",
+            "content": "Sensex, Nifty hit record closing highs: Top reasons behind the surge"
+        }
+    ]
+}
