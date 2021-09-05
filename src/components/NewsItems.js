@@ -9,9 +9,9 @@ export class NewsItems extends Component {
             <div className="card" style={{"width": "18rem"}}>
                 <img src={this.props.image ? this.props.image : this.dummyUrlImage} className="card-img-top" alt="image" />
                 <div className="card-body">
-                    <h5 className="card-title">{this.props.title}</h5>
-                    <p className="card-text">{this.props.description}</p>
-                    <a href="/" className="btn btn-primary">Read More</a>
+                    <h5 className="card-title">{this.props.title ? this.props.title : ""}</h5>
+                    <p className="card-text">{this.props.description ? this.props.description : ""}</p>
+                    <a href={this.props.readLink} target="_blank" className="btn btn-primary">Read More</a>
                 </div>
                 </div>
             </div>
